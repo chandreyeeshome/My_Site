@@ -1,0 +1,198 @@
+body
+{
+    margin : 0;
+    text-align: center;
+    font-family: 'Shantell Sans', cursive;
+    font-size: 2em;
+    color: #40514E;
+}
+h1
+{
+    /*font-size : 5.625rem; 16px=100% = 1em  thus, 90px= (90/16)*100% = 562.5% = 5.625em*/
+    font-size : 5rem;
+    margin : 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:#66BFBF;
+    font-weight:normal;
+    padding-bottom: 10px;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a
+{
+    color:#11999E;
+    font-size: 1rem;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #eaf6f6;
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #cde2e2;
+    background-color: white;
+    border-width: 6px;
+    width: 4%;
+    margin: 100px auto;/*margin: 50px auto 50px auto;*/
+}
+p
+{  
+    font-size: 1.5rem;
+    line-height: 3rem;
+}
+
+/*******************************************************Class Selectors***********************************************************/
+.top-container
+{
+    background-color: #EAF6F6; 
+    padding: 100px;
+    position:relative;
+}
+.middle-container
+{
+    margin: 100px 0;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left:300px;
+    bottom:300px;
+}
+.top-cloud
+{
+    position: absolute;
+    right:300px;
+    top:50px;
+}
+.profpic
+{
+    width: 12%
+}
+.intro
+{
+    width: 30%;
+    margin: auto;
+}
+.outro
+{
+    width: 30%;
+    margin: auto;
+    margin-bottom: 70px;   
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.code
+{
+    float: left;
+    margin-right: 30px;
+}
+.dev
+{
+    float: right;
+    margin-left: 30px;
+}
+.dancer
+{
+    float: left;
+    margin-right: 30px;
+}
+.film
+{
+    float: right;
+}
+.brain
+{
+    float: right;
+    margin-left: 30px;
+}
+.pro
+{
+    text-decoration:underline;
+}
+.bottom-container
+{
+    background-color: #66BFBF;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+.button {
+    background: #3DBFF6;
+    background-image: -webkit-linear-gradient(top, #3DBFF6, #1EA6D0);
+    background-image: -moz-linear-gradient(top, #3DBFF6, #1EA6D0);
+    background-image: -ms-linear-gradient(top, #3DBFF6, #1EA6D0);
+    background-image: -o-linear-gradient(top, #3DBFF6, #1EA6D0);
+    background-image: -webkit-gradient(to bottom, #3DBFF6, #1EA6D0);
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    border-radius: 26px;
+    color: #FFFFFF;
+    font-family: 'Shantell Sans', cursive;
+    font-size: 19px;
+    font-weight: 100;
+    padding: 26px;
+    -webkit-box-shadow: inset 3px 4px 34px 0 #0059A0;
+    -moz-box-shadow: inset 3px 4px 34px 0 #0059A0;
+    box-shadow: inset 3px 4px 34px 0 #0059A0;
+    text-shadow: 6px -1px 11px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .button:hover {
+    border: solid #009EA0 2px;
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1EBED0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1EBED0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1EBED0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1EBED0);
+    background-image: -webkit-gradient(to bottom, #3D94F6, #1EBED0);
+    -webkit-border-radius: 26px;
+    -moz-border-radius: 26px;
+    border-radius: 26px;
+    text-decoration: none;
+ }
+
+/*.footer-link1
+{
+    margin:auto;
+    font-size: 2rem;
+}
+.footer-link2
+{
+    margin:auto;
+    font-size: 2rem;
+}
+.footer-link3
+{
+    margin:auto;
+    font-size: 2rem;
+}*/
+.copyright
+{
+    margin-bottom: 0;
+    padding: 20px 0;
+    color:#EAF6F6;
+    font-size: 0.75rem;
+}

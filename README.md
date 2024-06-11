@@ -79,9 +79,8 @@ To view and interact with the website locally, follow these steps:
    cd My_site
    ```
 
-2. **Open the HTML files in a web browser:**
+2. **Open the HTML file in a web browser:**
    - You can open `index.html` directly in your browser to see the landing page.
-   - Navigate to `about.html` and `contact.html` for additional pages.
 
 Alternatively, you can deploy the website on a web server or a platform like GitHub Pages to view it online.
 
@@ -91,4 +90,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ## Contact
 
-For any questions or feedback, feel free to contact me through GitHub or via [email](mailto:chandreyeeshome04@gmail.com).
+For any questions or feedback, feel free to contact me through GitHub or via [my_email](mailto:chandreyeeshome04@gmail.com).

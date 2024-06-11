@@ -1,7 +1,5 @@
 # My_site
 
-![Website Preview](https://user-images.githubusercontent.com/123456789/website-preview.png)
-
 ## Table of Contents
 - [Overview](#overview)
 - [Project Structure](#project-structure)
@@ -28,30 +26,23 @@ This repository contains the code for the second website I created while learnin
 The repository is organized as follows:
 
 ```
-My_site/
+My_site
 │
-├── assets/
-│   ├── images/
-│   ├── styles/
-│   └── favicon/
-│
-├── index.html
-├── about.html
-├── contact.html
-├── styles.css
-├── README.md
-└── LICENSE
+├── css
+│   └── styles.css             #CSS file for styling the HTML pages
+├── images                     #Images used in the website
+│   └── Profile pic.png
+│   └── cloud.png
+│   └── dancing.png
+│   └── developer.png
+│   └── film-reel.png
+│   └── mountain.png
+│   └── programming.png
+│   └── psychology.png
+├── favicon.ico               #Favicon generated for the website
+├── index.html                #The main landing page for the website
+└── README.md                 #The readme file you are currently reading.
 ```
-
-### Descriptions of Key Files and Directories
-
-- **assets/**: Contains subdirectories for images, styles, and the Favicon used in the website.
-- **index.html**: The main landing page of the website.
-- **about.html**: A secondary page providing information about the site or its creator.
-- **contact.html**: A page designed to provide contact information and a form for user inquiries.
-- **styles.css**: The CSS file that styles the HTML pages.
-- **README.md**: The readme file you are currently reading.
-- **LICENSE**: The file that contains the license information for the project.
 
 ## Features
 
